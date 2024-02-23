@@ -334,7 +334,6 @@ PRODUCT_PACKAGES += \
     uimremoteclient \
     uimremoteserver \
     CarrierSettings \
-    DevicePersonalizationPrebuiltPixel4 \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
